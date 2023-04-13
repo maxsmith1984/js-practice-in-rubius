@@ -1,0 +1,19 @@
+ul {
+    list-style: none;
+}
+
+.page {
+    display: flex;
+}
+
+.user-post-button {
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+    border-radius: 22px;
+    cursor: pointer;
+}
+
+.user-post-button:hover {
+    background-color: #e7e7e7;
+}
